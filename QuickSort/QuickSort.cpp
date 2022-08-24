@@ -1,5 +1,5 @@
 // QuickSort.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-// Alfredo Jordano Anaya Hernández 19100011 5E
+// Alfredo Jordano Anaya Hernández
 #include <iostream>
 
 using namespace std;
